@@ -7,4 +7,5 @@
   * [内存管理](操作系统/内存管理/README.md)
   * [进程与线程](操作系统/进程与线程/README.md)
   * [锁](操作系统/锁/README.md)
-* [动态规划](dong-tai-gui-hua.md)
+* [算法](suan-fa/README.md)
+  * [动态规划](suan-fa/dong-tai-gui-hua.md)
