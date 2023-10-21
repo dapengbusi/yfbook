@@ -7,7 +7,4 @@
   * [内存管理](操作系统/内存管理/README.md)
   * [进程与线程](操作系统/进程与线程/README.md)
   * [锁](操作系统/锁/README.md)
-
-## test
-
-* [Page 1](test/page-1.md)
+* [动态规划](dong-tai-gui-hua.md)
