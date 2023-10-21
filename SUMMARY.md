@@ -10,3 +10,4 @@
 * [算法](suan-fa/README.md)
   * [动态规划](suan-fa/dong-tai-gui-hua/README.md)
     * [背包问题](suan-fa/dong-tai-gui-hua/bei-bao-wen-ti.md)
+  * [编程小技巧](suan-fa/bian-cheng-xiao-ji-qiao.md)
