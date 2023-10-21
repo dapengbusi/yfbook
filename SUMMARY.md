@@ -8,4 +8,5 @@
   * [进程与线程](操作系统/进程与线程/README.md)
   * [锁](操作系统/锁/README.md)
 * [算法](suan-fa/README.md)
-  * [动态规划](suan-fa/dong-tai-gui-hua.md)
+  * [动态规划](suan-fa/dong-tai-gui-hua/README.md)
+    * [背包问题](suan-fa/dong-tai-gui-hua/bei-bao-wen-ti.md)
