@@ -15,3 +15,4 @@
   * [数学](suan-fa/shu-xue/README.md)
     * [组合数学](suan-fa/shu-xue/zu-he-shu-xue/README.md)
       * [康托展开](suan-fa/shu-xue/zu-he-shu-xue/kang-tuo-zhan-kai.md)
+    * [位运算](suan-fa/shu-xue/wei-yun-suan.md)
