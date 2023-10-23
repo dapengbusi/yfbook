@@ -12,3 +12,6 @@
     * [背包问题](suan-fa/dong-tai-gui-hua/bei-bao-wen-ti.md)
     * [区间DP](suan-fa/dong-tai-gui-hua/qu-jian-dp.md)
   * [编程小技巧](suan-fa/bian-cheng-xiao-ji-qiao.md)
+  * [数学](suan-fa/shu-xue/README.md)
+    * [组合数学](suan-fa/shu-xue/zu-he-shu-xue/README.md)
+      * [康托展开](suan-fa/shu-xue/zu-he-shu-xue/kang-tuo-zhan-kai.md)
