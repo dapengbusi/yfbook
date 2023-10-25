@@ -15,5 +15,6 @@
   * [数学](suan-fa/shu-xue/README.md)
     * [组合数学](suan-fa/shu-xue/zu-he-shu-xue/README.md)
       * [康托展开](suan-fa/shu-xue/zu-he-shu-xue/kang-tuo-zhan-kai.md)
-      * [数论](suan-fa/shu-xue/zu-he-shu-xue/shu-lun.md)
     * [位运算](suan-fa/shu-xue/wei-yun-suan.md)
+    * [数论](suan-fa/shu-xue/shu-lun.md)
+    * [不等式](suan-fa/shu-xue/bu-deng-shi.md)
