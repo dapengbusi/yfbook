@@ -1,5 +1,9 @@
 # 数论
 
+## #参考文档
+
+* [https://www.cnblogs.com/vongang/archive/2013/03/10/2952978.html](https://www.cnblogs.com/vongang/archive/2013/03/10/2952978.html)
+
 ## 同余定理
 
 * 如果 (a-b) 能被m整除，那么a和b对m同余。
