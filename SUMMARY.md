@@ -18,3 +18,4 @@
     * [位运算](suan-fa/shu-xue/wei-yun-suan.md)
     * [数论](suan-fa/shu-xue/shu-lun.md)
     * [不等式](suan-fa/shu-xue/bu-deng-shi.md)
+* [并查集](bing-cha-ji.md)
