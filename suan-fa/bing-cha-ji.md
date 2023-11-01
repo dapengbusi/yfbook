@@ -60,6 +60,10 @@ public:
         if (rank[xp] < rank[yp])
         {
             par[xp] = yp;
+
+            // 这里实际上对rank[xp]
+            // 清零也可以，不过不用，因为后续他不是根，永远不会搜索到，除非有裂项的操作
+            // rank[xp] = 0;
         }
         else if (rank[xp] > rank[yp])
         {
