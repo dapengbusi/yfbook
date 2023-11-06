@@ -8,6 +8,7 @@
   * [进程与线程](操作系统/进程与线程/README.md)
   * [锁](操作系统/锁/README.md)
 * [算法](suan-fa/README.md)
+  * [树状数组](suan-fa/shu-zhuang-shu-zu.md)
   * [并查集](suan-fa/bing-cha-ji.md)
   * [数学](suan-fa/shu-xue/README.md)
     * [组合数学](suan-fa/shu-xue/zu-he-shu-xue/README.md)
