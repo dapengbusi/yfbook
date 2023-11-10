@@ -21,3 +21,4 @@
     * [区间DP](suan-fa/dong-tai-gui-hua/qu-jian-dp.md)
   * [编程小技巧](suan-fa/bian-cheng-xiao-ji-qiao.md)
   * [离散化](suan-fa/li-san-hua.md)
+  * [回溯](suan-fa/hui-su.md)
